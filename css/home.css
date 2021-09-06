@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .row {
@@ -64,7 +64,7 @@ header, .navbar {
 }
 
 #mainSlider .carousel-caption h2 {
-  font-size: 50px;
+  font-size: 80px;
   margin-bottom: 30px;
 }
 
