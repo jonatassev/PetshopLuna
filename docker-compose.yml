@@ -3,7 +3,7 @@ services:
 
   php8site:
     image: php8
-    container_name: php8site
+    container_name: php8teste3
     volumes:
       - ./:/var/www/html
     ports:
